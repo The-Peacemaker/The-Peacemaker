@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://the-peacemaker.github.io/RESUME/](https://the-peacemaker.github.io/RESUME/)
 
-- ⚡ Fun fact **BEING AMBITIOUS MAKES ME MORE PRODUCTIVE**
+- ⚡ Fun fact **BEING PRODUCTIVE MAKES ME UNSTOPPABLE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
