@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-peacemaker" alt="the-peacemaker" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/benedictchacko" target="blank"><img src="https://img.shields.io/twitter/follow/benedictchacko?logo=twitter&style=for-the-badge" alt="benedictchacko" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/benedict-chacko-mathew-232770286/" target="blank"><img src="https://img.shields.io/twitter/follow/benedictchacko?logo=twitter&style=for-the-badge" alt="benedictchacko" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
