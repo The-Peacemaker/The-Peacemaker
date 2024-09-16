@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benedict Chacko Mathew</h1>
 <h3 align="center">A Passionate Student Programmer</h3>
-
+<img align="centre" alt="coding" width="" src="https://wallpaperaccess.com/full/8642986.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-peacemaker&label=Profile%20views&color=0e75b6&style=flat" alt="the-peacemaker" /> </p>
 
