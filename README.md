@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Benedict Chacko Mathew</h1>
-<h3 align="center">A Passionate Student Programmer</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Deutschland+Grundschrift&weight=300&size=18&duration=7000&pause=1000&color=9FF700&center=true&width=435&lines=A+PASSIONATE+STUDENT+PROGRAMMER" alt="Typing SVG" /></a>
+</a>
+</div>
 <img align="centre" alt="coding" width="" src="https://wallpaperaccess.com/full/8642986.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-peacemaker&label=Profile%20views&color=0e75b6&style=flat" alt="the-peacemaker" /> </p>
