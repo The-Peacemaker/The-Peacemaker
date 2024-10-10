@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-peacemaker&label=Profile%20views&color=0e75b6&style=flat" alt="the-peacemaker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-peacemaker" alt="the-peacemaker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true" alt="the-peacemaker" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/benedict-chacko-mathew-232770286/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/benedictchacko?logo=twitter&style=for-the-badge" alt="benedictchacko" /></a> </p>
 
