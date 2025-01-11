@@ -13,9 +13,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
-- 🔭 I’m currently working on **AI Development Projects**
+- 🔭 I’m currently working on **PRIVATE BLIND XSS HUNTING**
 
-- 🌱 I’m currently learning **Computer Science Engineering**
+- 🌱 I’m currently learning **BUG BOUNTY HUNTING**
 
 - 👯 I’m looking to collaborate on **AI Developers**
 
