@@ -51,12 +51,35 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
 </div>
 
+<!-- spacing here -->
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-peacemaker&show_icons=true&locale=en&layout=compact" alt="the-peacemaker" /></p>
+<!-- GitHub Activity Graph (Full Width for Impact) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Peacemaker&theme=nightowl&hide_border=true&area=true&point=60,180,255&line=90,200,250&color=38BDF8&bg_color=0d1117" alt="GitHub Activity Graph" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-peacemaker&show_icons=true&locale=en" alt="the-peacemaker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-peacemaker&" alt="the-peacemaker" /></p>
+<!-- GitHub Stats + Wakatime -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=The-Peacemaker&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=The-Peacemaker&theme=nightowl&hide_border=true" alt="Wakatime Stats" />
+    </td>
+  </tr>
+</table>
+
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Peacemaker&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
