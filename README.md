@@ -23,9 +23,9 @@
 
 - 📫 How to reach me <a href="mailto:benedictcm1@gmail.com"><strong>GMAIL</strong></a>
 
-- 😎 Check out my cool <a href="https://benedictchacko.netlify.app/"><strong>PORTFOLIO</strong></a>
+- 😎 Check out my cool <a href="https://benedii.netlify.app/"><strong>PORTFOLIO</strong></a>
 
-- 📄 Know about my experiences <a href="https://the-peacemaker.github.io/RESUME/"><strong>RESUME</strong></a>
+- 📄 Know about my experiences <a href="https://benedii.netlify.app/src/Benedict_Chacko_Mathew_Resume_SWE.pdf"><strong>RESUME</strong></a>
 
 - ⚡ Fun fact **IT ALL STARTS WITH A DREAM!**
 
