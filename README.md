@@ -41,9 +41,7 @@
 
 <!-- spacing here -->
 <br><br>
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/The-Peacemaker" alt="Benedict's Github chart" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/The-Peacemaker/The-Peacemaker/output/github-contribution-grid-snake.svg" alt="snake animation" />
