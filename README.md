@@ -13,22 +13,21 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
-- 🔭 I’m currently working on **PRIVATE BLIND XSS HUNTING**
-
-- 🌱 I’m currently learning **BUG BOUNTY HUNTING**
+- 🔭 I’m currently working on **SMART CONTRACT EXPLOIT RESEARCH & WEB3 SECURITY**
 
 - 👯 I’m looking to collaborate on **AI Developers**
 
-- 🤝 I’m looking for help with **Machine Learning And Robotics**
+- 🤝 I’m looking for **Bug Gounty Hunters to Collaborate**
 
 - 📫 How to reach me <a href="mailto:benedictcm1@gmail.com"><strong>GMAIL</strong></a>
 
-- 😎 Check out my cool <a href="https://benedii.netlify.app/"><strong>PORTFOLIO</strong></a>
+- 😎 Check out my cool <a href="https://benedictchacko.tech/"><strong>PORTFOLIO</strong></a>
 
-- 📄 Know about my experiences <a href="https://benedii.netlify.app/src/Benedict_Chacko_Mathew_Resume_SWE.pdf"><strong>RESUME</strong></a>
+- 📄 Know about my experiences <a href="https://benedii.netlify.app/src/Benedict_Resume.pdf"><strong>RESUME</strong></a>
 
 - ⚡ Fun fact **IT ALL STARTS WITH A DREAM!**
 
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/benedictchacko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benedictchacko" height="30" width="40" /></a>
@@ -37,7 +36,7 @@
 <a href="https://leetcode.com/u/The-Peacemaker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="benedict chacko mathew" height="30" width="40" /></a>
 </p>
 
-
+connect section -->
 
 <!-- spacing here -->
 <br><br>
