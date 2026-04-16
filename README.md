@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **IT ALL STARTS WITH A DREAM!**
 
-<!-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/benedictchacko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benedictchacko" height="30" width="40" /></a>
@@ -36,11 +36,11 @@
 <a href="https://leetcode.com/u/The-Peacemaker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="benedict chacko mathew" height="30" width="40" /></a>
 </p>
 
-connect section -->
 
-<!-- spacing here -->
+
+<!-- spacing here 
 <br><br>
-
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/The-Peacemaker/The-Peacemaker/output/github-contribution-grid-snake.svg" alt="snake animation" />
