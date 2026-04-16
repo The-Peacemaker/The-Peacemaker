@@ -21,7 +21,7 @@
 
 - 📫 How to reach me <a href="mailto:benedictcm1@gmail.com"><strong>GMAIL</strong></a>
 
-- 😎 Check out my cool <a href="https://benedictchacko.tech/"><strong>PORTFOLIO</strong></a>
+- 😎 Check out my cool <a href="https://benedii.netlify.app/"><strong>PORTFOLIO</strong></a>
 
 - 📄 Know about my experiences <a href="https://benedii.netlify.app/src/Benedict_Resume.pdf"><strong>RESUME</strong></a>
 
