@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **AI Developers**
 
-- 🤝 I’m looking for **Bug Gounty Hunters to Collaborate**
+- 🤝 I’m looking for **Bug Bounty Hunters to Collaborate**
 
 - 📫 How to reach me <a href="mailto:benedictcm1@gmail.com"><strong>GMAIL</strong></a>
 
