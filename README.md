@@ -13,7 +13,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
 
-- 🔭 I’m currently working on **SMART CONTRACT EXPLOIT RESEARCH & WEB3 SECURITY**
+- 🔭 I’m currently working on **LETHE: A Wearable NFC Out-of-Band Cryptographic Trust Framework for Offline File Exchange with Policy-Controlled Key Self-Destruction**
 
 - 👯 I’m looking to collaborate on **AI Developers**
 
