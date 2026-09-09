@@ -53,10 +53,10 @@
 
 <br>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Peacemaker&theme=nightowl&hide_border=true"/>
-</p>
+---
 
+<p align="center">
+  <img width="660" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=the-peacemaker&theme=juicyfresh">
 <p align="center">
 
 
